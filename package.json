@@ -1,5 +1,5 @@
 {
-  "name": "parser-municipio",
+  "name": "cocada-parser-municipio",
   "version": "0.0.0",
   "main": "index.js",
   "dependencies": {
